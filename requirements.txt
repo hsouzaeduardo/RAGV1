@@ -1,0 +1,10 @@
+langchain-community
+langchain-openai
+azure-search-documents>=11.4
+azure-identity
+unstructured
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+langchain-docling
+python-dotenv
+langchain
